@@ -33,8 +33,7 @@
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Excel_Logo_2023.svg" width="40" height="40" alt="Excel"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Microsoft_Excel_Logo_2013.png" width="40" height="40" alt="Excel"/>
 
 
 <picture align="center">
