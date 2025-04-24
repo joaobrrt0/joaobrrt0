@@ -11,7 +11,6 @@
 
 ## Technologies
 
-
 <p align="left">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -19,16 +18,21 @@
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
 
-  <!-- SQL (PostgreSQL como alternativa genérica) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-  <!-- AWS (logo oficial colorido) -->
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="40" height="40" alt="AWS"/>
+  <!-- AWS (versão mais proporcional) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="40" alt="AWS"/>
 
   <!-- R -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-</p>
 
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>
 
 
 
