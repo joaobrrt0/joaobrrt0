@@ -33,11 +33,8 @@
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-  <!-- ChatGPT -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" alt="ChatGPT"/>
+<!-- ChatGPT (novo link) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" width="40" height="40" alt="ChatGPT"/>
 </p>
 
 <picture align="center">
