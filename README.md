@@ -7,4 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrrt0&hide_progress=truee&theme=radical)
 
+## GitHub Contribution Snake 🐍
+
 ![Snake Animation](https://joaobrrt0.github.io/joaobrrt0/github-contribution-grid-snake.svg)
+
