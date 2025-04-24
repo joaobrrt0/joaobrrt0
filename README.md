@@ -7,7 +7,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrrt0&hide_progress=truee&theme=radical)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
 
 
 
