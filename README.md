@@ -14,7 +14,7 @@
 
 - 🎓 Graduando em **Estatística** na Universidade Federal Fluminense (UFF)
 - 📊 Trabalho com **ciência de dados**: da coleta (scraping) à análise, modelagem e visualização
-- 🤖 Estudando agora: **RAG** (busca híbrida, reranking, avaliação) e **deep learning**
+- 🏥 Projeto de extensão na UFF: [**BDEM Pernambuco 2016**](https://github.com/joaobrrt0/Projeto_BDEM_2016), um banco de dados epidemiológicos municipais montado em R a partir de 5 bases públicas (SIM, SINASC, IBGE/SIDRA, Atlas Brasil e SINISA), com 165 indicadores para cada um dos 185 municípios de PE e dicionário de dados
 - ⚡ Também me viro com **big data** (Spark em Scala e PySpark) e **cloud** (AWS)
 
 ## 🚀 Projetos em destaque
